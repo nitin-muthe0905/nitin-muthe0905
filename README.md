@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-muthe0905
 - 👀 I’m interested in MERN stack development
 - 🌱 I’m currently working as React Developer...Full stack development based on fully Javascript/Typescript
-- 💞️ I’m looking to collaborate on ... React + javascript
+- 💞️ I’m looking to collaborate on ... React + javascript + Typescript
 - 📫 How to reach me ... nitin.muthe09@gmail.com
 
 <!---
